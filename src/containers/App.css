@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Bemboza Font";
+    font-weight: normal;
+    font-style: normal;
+    src: local("Bemboza script"), url(Bemboza\ script.ttf) format(ttf);
+}
+
+body {
+    font-family: "Bemboza Font";
+}
