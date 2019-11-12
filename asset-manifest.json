@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Benny505/GitRobo/static/css/main.2f1515d6.chunk.css",
-    "main.js": "/Benny505/GitRobo/static/js/main.fbb45c26.chunk.js",
-    "main.js.map": "/Benny505/GitRobo/static/js/main.fbb45c26.chunk.js.map",
-    "runtime-main.js": "/Benny505/GitRobo/static/js/runtime-main.2fc00b5e.js",
-    "runtime-main.js.map": "/Benny505/GitRobo/static/js/runtime-main.2fc00b5e.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/Benny505/GitRobo/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.a09a1be0.chunk.js": "/Benny505/GitRobo/static/js/2.a09a1be0.chunk.js",
-    "static/js/2.a09a1be0.chunk.js.map": "/Benny505/GitRobo/static/js/2.a09a1be0.chunk.js.map",
-    "index.html": "/Benny505/GitRobo/index.html",
-    "precache-manifest.079eee5dba02274228464aad8e8ffe50.js": "/Benny505/GitRobo/precache-manifest.079eee5dba02274228464aad8e8ffe50.js",
-    "service-worker.js": "/Benny505/GitRobo/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/Benny505/GitRobo/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.2f1515d6.chunk.css.map": "/Benny505/GitRobo/static/css/main.2f1515d6.chunk.css.map"
+    "main.css": "/GitRobo/static/css/main.2f1515d6.chunk.css",
+    "main.js": "/GitRobo/static/js/main.400051bc.chunk.js",
+    "main.js.map": "/GitRobo/static/js/main.400051bc.chunk.js.map",
+    "runtime-main.js": "/GitRobo/static/js/runtime-main.48dca18c.js",
+    "runtime-main.js.map": "/GitRobo/static/js/runtime-main.48dca18c.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/GitRobo/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a09a1be0.chunk.js": "/GitRobo/static/js/2.a09a1be0.chunk.js",
+    "static/js/2.a09a1be0.chunk.js.map": "/GitRobo/static/js/2.a09a1be0.chunk.js.map",
+    "index.html": "/GitRobo/index.html",
+    "precache-manifest.ca71e4e75080f7c84a098f0101ef0be2.js": "/GitRobo/precache-manifest.ca71e4e75080f7c84a098f0101ef0be2.js",
+    "service-worker.js": "/GitRobo/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/GitRobo/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.2f1515d6.chunk.css.map": "/GitRobo/static/css/main.2f1515d6.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fc00b5e.js",
+    "static/js/runtime-main.48dca18c.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.a09a1be0.chunk.js",
     "static/css/main.2f1515d6.chunk.css",
-    "static/js/main.fbb45c26.chunk.js"
+    "static/js/main.400051bc.chunk.js"
   ]
 }
