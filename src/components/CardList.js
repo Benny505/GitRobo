@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "./Card";
-import ErrorBoundry from "./ErrorBoudry";
 
 const CardList = ({ robots }) => {
     // if (true) {
